@@ -1,2 +1,2 @@
-# PandaLog
-PandaLog flume and ES related files
+# PandaLogParser
+for parsing Panda Logs
